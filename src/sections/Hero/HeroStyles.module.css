@@ -55,11 +55,16 @@
 
 .colorModeContainer {
     position: relative;
+    
+    .heroImg {
+        width: 300px;
+    }
 }
 
 .colorMode {
-    position: absolute;
+    position: relative;
     right: 0;
+    padding-bottom: 275px;
     width: 25px;
 }
 
