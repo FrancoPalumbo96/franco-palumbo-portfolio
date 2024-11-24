@@ -53,7 +53,7 @@ function Hero() {
             <img src={linkedinIcon} alt="Linkedin Icon" />
           </a>
         </span>
-        <p>Generic Text</p>
+        <p className={styles.description}>Generic Text</p>
         <a href={CV} download>
           <button className="hover">Resume</button>
         </a>
