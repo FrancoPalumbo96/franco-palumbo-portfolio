@@ -12,25 +12,25 @@ function Projects() {
           src={viberr}
           link="Todo add link"
           h3="Viberr"
-          p="Todo Viberr project description"
+          p="Todo Add Description"
         />
         <ProjectCard
           src={freshBurger}
           link="Todo add link"
           h3="Fresh Burger"
-          p="Todo Fresh Burger project description"
+          p="Todo Add Description"
         />
         <ProjectCard
           src={freshBurger}
           link="Todo add link"
           h3="Fresh Burger"
-          p="Todo Fresh Burger project description"
+          p="Todo Add Description"
         />
         <ProjectCard
           src={freshBurger}
           link="Todo add link"
           h3="Fresh Burger"
-          p="Todo Fresh Burger project description"
+          p="Todo Add Description"
         />
       </div>
     </section>
