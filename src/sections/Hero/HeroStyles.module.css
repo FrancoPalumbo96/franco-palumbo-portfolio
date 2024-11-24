@@ -81,9 +81,11 @@
 
 @media (width >= 800px){
     .container {
-        flex-direction: row-reverse;
+        
         align-items: center;
-        justify-content: space-evenly;
+        flex-direction: row-reverse;
+        justify-content: center;
+        gap: 200px;
         
         .hero {
             max-width: 350px;
