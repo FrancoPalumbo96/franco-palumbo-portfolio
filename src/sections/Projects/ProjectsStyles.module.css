@@ -5,6 +5,8 @@
 
     img {
         max-width: 250px;
+        width: 250px;
+        height: 250px;
         align-self: center;
         background-color: var(--project-card-bg);
         border-radius: 20px;
@@ -31,6 +33,9 @@
     p {
         width: 400px;
     }
+
+    margin-bottom: 50px;
+   
 }
 
 @media (width >= 800px) {

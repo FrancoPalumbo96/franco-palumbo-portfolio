@@ -5,8 +5,7 @@ function Footer() {
   return (
     <section id="footer" className={styles.container}>
       <p>
-        &copy; 2024 Franco Palumbo. <br />
-        All rights reserved.
+        FP
       </p>
     </section>
   );
