@@ -4,7 +4,6 @@ import treasure from "../../assets/treasure.png";
 import sequence from "../../assets/seqeunce.png";
 import fatedseal from "../../assets/fatedseal.png";
 import fulbito from "../../assets/fulbito.png"
-import freshBurger from "../../assets/fresh-burger.png";
 import ProjectCard from "../common/ProjectCard";
 
 function Projects() {
